@@ -139,6 +139,6 @@ class Task {
     return duration;
     }
 
-   
+}
 }
 

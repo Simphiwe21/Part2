@@ -144,7 +144,7 @@ public class MainMenu extends javax.swing.JFrame {
     }//GEN-LAST:event_ShowReportActionPerformed
 
     private void AddTasksActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AddTasksActionPerformed
-         new AddTask().setVisible(true);
+        // new AddTask().setVisible(true);
        
     }//GEN-LAST:event_AddTasksActionPerformed
 
